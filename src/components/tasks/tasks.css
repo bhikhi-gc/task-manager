@@ -1,0 +1,21 @@
+table th{
+	font-size: 36px;
+	padding: 30px 50px 30px;
+}
+
+table tr td{
+	padding: 30px 0px 30px;
+	border-bottom: 1px solid #aaa;
+}
+
+table tr #deleteTask{
+	padding:10px 30px;
+	background: red;
+	color: white;
+}
+#addTask{
+	margin-top: 50px;
+	padding:10px 30px;
+	background: green;
+	color: white;
+}
